@@ -1,4 +1,4 @@
-# WikiPPD2
+# WikiCorpus
 
 NodeJS app for PPD using Wikipedia's API
 
@@ -24,7 +24,7 @@ An user can type one or more Wikipedia categories, qualified by the "tags" and t
 
 ### **IMPORT THE PROJECT**
 
-> - git clone http://github.com/ThomasPerche/GDTPPD.git
+> - git clone https://github.com/ThPch/WikiCorpus.git
 
 ---
 
