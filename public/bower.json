@@ -1,0 +1,16 @@
+{
+  "name": "public",
+  "homepage": "https://github.com/ThomasPerche/WikiPPD2",
+  "authors": [
+    "ThomasPerche <Th.Perche@Gmail.com>"
+  ],
+  "description": "front-end component for wikippd2 app",
+  "main": "",
+  "license": "MIT",
+  "dependencies": {
+    "underscore": "^1.8.3",
+    "highcharts-ng": "^1.2.0",
+    "angular-material": "^1.1.9",
+    "json-formatter": "^0.7.0"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "name": "wikippd2",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node ./bin/www"
+  },
+  "dependencies": {
+    "async": "^2.6.3",
+    "body-parser": "^1.19.0",
+    "cookie-parser": "^1.4.5",
+    "debug": "~2.6.9",
+    "express": "^4.17.1",
+    "html": "^1.0.0",
+    "method-override": "^2.3.10",
+    "mimir": "0.0.1",
+    "mocha": "^5.2.0",
+    "morgan": "^1.10.0",
+    "nltk-stopwords": "^1.0.3",
+    "nodemw": "^0.12.2",
+    "path": "^0.12.7",
+    "python-shell": "^0.5.0",
+    "serve-favicon": "~2.4.5",
+    "txtwiki": "^0.1.0",
+    "underscore": "^1.11.0"
+  }
+}
